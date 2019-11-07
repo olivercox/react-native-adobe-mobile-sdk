@@ -47,7 +47,7 @@ RCT_EXPORT_METHOD(trackState: (NSString *)state contextData:(NSDictionary *)cont
 }
 
 RCT_EXPORT_METHOD(collectPii: (NSDictionary *)data) {
-    [ADBMobile collectPii:data];
+    [ADBMobile collectPII:data];
 }
 
 RCT_EXPORT_METHOD(visitorMarketingCloudID:(RCTResponseSenderBlock)callback) {
