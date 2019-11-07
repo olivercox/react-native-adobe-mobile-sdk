@@ -1,0 +1,32 @@
+{
+  "name": "react-native-adobe-mobile-sdk",
+  "title": "React Native Rn Adobe Mobile Sdk",
+  "version": "0.1.0",
+  "description": "TODO",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olivercox/react-native-adobe-mobile-sdk.git",
+    "baseUrl": "https://github.com/olivercox/react-native-adobe-mobile-sdk.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Oliver Cox",
+    "email": "olly.cox@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.59.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.8.3",
+    "react-native": "^0.59.10"
+  }
+}
