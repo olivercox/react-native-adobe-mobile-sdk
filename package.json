@@ -1,8 +1,8 @@
 {
   "name": "react-native-adobe-mobile-sdk",
-  "title": "React Native Rn Adobe Mobile Sdk",
-  "version": "0.1.0",
-  "description": "TODO",
+  "title": "React Native Adobe Mobile Sdk",
+  "version": "0.1.1",
+  "description": "React Native wrapper for the Adobe Mobile SDK 4.x",
   "main": "index.js",
   "scripts": {
   },
